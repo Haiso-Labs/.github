@@ -1,5 +1,7 @@
 Haiso Labs
 
+<img width="1500" height="500" alt="Satya Banner (1)" src="https://github.com/user-attachments/assets/a22a3093-1bf6-4911-b887-76dc79d58015" />
+
 
 Who are we?
 
