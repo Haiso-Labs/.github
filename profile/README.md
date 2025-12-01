@@ -2,7 +2,7 @@
 
 <hr> 
 
-<img width="1670" height="478" alt="Screenshot 2025-12-01 at 05 38 14" src="https://github.com/user-attachments/assets/39a7adc2-c31b-4fc6-be3f-cb2648e76a99" />
+<img width="1669" height="468" alt="Screenshot 2025-12-01 at 05 40 52" src="https://github.com/user-attachments/assets/c19ef113-70ef-497a-bd1c-aec8b8230a31" />
 
 
 <hr>
