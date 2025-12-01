@@ -1,12 +1,13 @@
-Haiso Labs
+**<h1>Haiso Labs</h1>**
 
 <hr> 
 
-<img width="1500" height="500" alt="Satya Banner (1)" src="https://github.com/user-attachments/assets/a22a3093-1bf6-4911-b887-76dc79d58015" />
+<img width="3780" height="1890" alt="Haiso Banner" src="https://github.com/user-attachments/assets/257dfd0a-0fc8-4080-b237-c354aa7c73ed" />
+
 
 <hr>
 
-**Who are we?**
+**<h1>Who are we?</h1>**
 
 We are a team committed to building the foundations that help the entire ecosystem grow. We focus on the overlooked areas that quietly shape performance, scalability, and the developer experience—because strong ecosystems are built on strong infrastructure.
 
