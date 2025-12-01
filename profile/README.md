@@ -2,7 +2,7 @@
 
 <hr> 
 
-<img width="3780" height="1890" alt="Haiso Banner" src="https://github.com/user-attachments/assets/257dfd0a-0fc8-4080-b237-c354aa7c73ed" />
+<img width="1670" height="478" alt="Screenshot 2025-12-01 at 05 38 14" src="https://github.com/user-attachments/assets/39a7adc2-c31b-4fc6-be3f-cb2648e76a99" />
 
 
 <hr>
